@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T19:52:00.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="g_HKnDR5sXkfVp6BOXDX" version="15.6.2" type="github">
-  <diagram id="BwQwfxBZ586QTjeH2dD2" name="Page-1">
-    <mxGraphModel dx="815" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-10-29T19:52:25.900Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ph8rH-qgVVQMNSSb26GX" version="15.6.2" type="github">
+  <diagram id="BwQwfxBZ586QTjeH2dD2" name="Spring Security - Ajax 인증 프로세스">
+    <mxGraphModel dx="1678" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
