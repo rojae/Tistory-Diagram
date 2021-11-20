@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-20T13:13:05.975Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="0EVgfYElIJbCXZfrOxW1" version="15.8.3" type="github" pages="3">
+<mxfile modified="2021-11-20T13:15:13.371Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6KDQgmjTS-sA7jTvQg1I" version="15.8.3" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Archtecture Diagram">
     <mxGraphModel dx="4322" dy="2874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -278,7 +278,10 @@
           <mxGeometry x="310.59999999999997" y="750" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8nGzul5ZJOGKEmhzEk_8-3" value="&lt;font style=&quot;font-size: 32px&quot;&gt;Amazon Elastic &lt;br&gt;Compute Cloud&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;rounded=0;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="-44.39999999999998" y="1515" width="240" height="70" as="geometry" />
+          <mxGeometry x="249.3" y="1643.25" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8nGzul5ZJOGKEmhzEk_8-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;rounded=0;fontSize=32;fontColor=#FFFFFF;strokeColor=#3819FF;strokeWidth=5;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="174.3" y="1545" width="75" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
