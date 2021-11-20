@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-20T13:34:21.850Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="kiPYfRdw8WXUyJCGkfZQ" version="15.8.3" type="github" pages="3">
+<mxfile modified="2021-11-20T13:36:40.990Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="vpqQ5qfBHlqNxPNDq5i7" version="15.8.3" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Archtecture Diagram">
     <mxGraphModel dx="3872" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -286,8 +286,8 @@
         <mxCell id="P_ORsJNTlbV6Q0vO8lWt-7" value="&lt;font color=&quot;#cccc00&quot;&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Load Balancer&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="71.5" y="1114" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P_ORsJNTlbV6Q0vO8lWt-8" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Made By rojae&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1008.15" y="1613.25" width="140" height="30" as="geometry" />
+        <mxCell id="P_ORsJNTlbV6Q0vO8lWt-8" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Copyright 2021. &lt;br&gt;rojae all rights reserved.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="939" y="1590" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
