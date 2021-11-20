@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-20T13:23:37.384Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="voh-pR1S4X6rt6MFGGLM" version="15.8.3" type="github" pages="3">
+<mxfile modified="2021-11-20T13:23:47.170Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="f0Aq--KpzrXLl4j8aLtX" version="15.8.3" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Archtecture Diagram">
     <mxGraphModel dx="3872" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="zuvxYvsVuyJw35V6x5Qn-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.flatDoubleEdge;fillColor=#000000;aspect=fixed;rounded=1;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;flipV=1;rotation=60;" vertex="1" parent="1">
           <mxGeometry x="-122.62" y="500.00000000000006" width="1002.62" height="571.81" as="geometry" />
         </mxCell>
-        <mxCell id="yw9kTV0vtZRtyA5Kd-NA-7" value="&lt;font style=&quot;font-size: 72px&quot;&gt;AWS&amp;nbsp; Archtecture Diagram&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1117.2" y="70" width="870" height="50" as="geometry" />
+        <mxCell id="yw9kTV0vtZRtyA5Kd-NA-7" value="&lt;font style=&quot;font-size: 72px&quot;&gt;AWS Archtecture Diagram&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1107.2" y="70" width="850" height="50" as="geometry" />
         </mxCell>
         <mxCell id="APOkxOs7tl1a9y1-Q86Q-4" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;labelBackgroundColor=none;strokeWidth=5;fontFamily=Verdana;fontSize=12" edge="1" parent="1" target="HjWQWZOb59sjMMaNwNR0-3">
           <mxGeometry width="50" height="100" relative="1" as="geometry">
