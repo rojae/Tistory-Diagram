@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-20T15:45:51.370Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="uYu2dtDzkxoLnG5eClEQ" version="15.8.3" type="github" pages="3">
+<mxfile modified="2021-11-20T15:45:59.999Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="eVnJtpFV4VYnkDh7yT2g" version="15.8.3" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Archtecture Diagram">
     <mxGraphModel dx="3534" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -533,10 +533,7 @@
           <mxGeometry x="369.5" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6UG8_OfNvHeWKdYFaVZi-95" value="" style="fontStyle=0;verticalAlign=top;align=center;spacingTop=-2;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;strokeWidth=4;dashed=1;container=1;collapsible=0;expand=0;recursiveResize=0;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontSize=20;fontColor=#333333;" vertex="1" parent="OWNzuiMXCO4bU7EgIZqG-1">
-          <mxGeometry x="389.5" y="389" width="190" height="171" as="geometry" />
-        </mxCell>
-        <mxCell id="6UG8_OfNvHeWKdYFaVZi-97" value="Amazon EC2&lt;br&gt;Security Group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#333333;" vertex="1" parent="6UG8_OfNvHeWKdYFaVZi-95">
-          <mxGeometry x="20" y="93" width="150" height="50" as="geometry" />
+          <mxGeometry x="389.5" y="389" width="190" height="91" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
