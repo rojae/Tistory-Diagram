@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-20T12:55:29.266Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="W8v2ePhLooIuh1XHBYXt" version="15.8.3" type="github" pages="3">
+<mxfile modified="2021-11-20T12:55:42.101Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="pSb1MGcErx6AOdPHX4Sw" version="15.8.3" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Archtecture Diagram">
     <mxGraphModel dx="4322" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
           <mxGeometry x="780" y="250" width="228.15" height="230" as="geometry" />
         </mxCell>
         <mxCell id="jLNKredJnKN6a5hXk-XU-29" value="&lt;font color=&quot;#cccc00&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Database Server&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
-          <mxGeometry x="860" y="230" width="250" height="30" as="geometry" />
+          <mxGeometry x="880" y="240" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jLNKredJnKN6a5hXk-XU-30" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;labelBackgroundColor=none;strokeWidth=5;fontFamily=Verdana;fontSize=12;entryX=0.238;entryY=0.87;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jLNKredJnKN6a5hXk-XU-18" target="jLNKredJnKN6a5hXk-XU-27">
           <mxGeometry width="50" height="100" relative="1" as="geometry">
