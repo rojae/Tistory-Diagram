@@ -1,6 +1,6 @@
-<mxfile modified="2021-11-20T14:20:53.208Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="sY_L3jxlx4IZsqUrWp-Q" version="15.8.3" type="github" pages="3">
+<mxfile modified="2021-11-20T14:24:18.168Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="5Aw1qGaATeIET8y9w8bt" version="15.8.3" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Archtecture Diagram">
-    <mxGraphModel dx="3872" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3534" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,6 +297,12 @@
         </mxCell>
         <mxCell id="P_ORsJNTlbV6Q0vO8lWt-8" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Copyright 2021. &lt;br&gt;rojae all rights reserved.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=22;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="939" y="1590" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IjFcAa4tshSwiuuZzXQG-4" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_proportional;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=36;fontColor=#FF4D0D;rotation=30;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1540" width="30" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IjFcAa4tshSwiuuZzXQG-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/technology-and-hardware-2/200/vector_66_08-128.png;rounded=0;shadow=0;glass=0;labelBorderColor=none;sketch=0;fontSize=36;fontColor=#FF4D0D;strokeColor=#3819FF;strokeWidth=5;fillColor=#DBDBDB;gradientColor=none;gradientDirection=radial;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1521.5" width="58.5" height="58.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
