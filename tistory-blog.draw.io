@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T13:38:09.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Q5n1d1Qb_wvwqSK-Hf4g" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-17T13:40:43.699Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="XX32cYqYVLEr-BI3pjLK" version="17.4.3" type="github" pages="2">
   <diagram id="BwQwfxBZ586QTjeH2dD2" name="Spring Security - Ajax 인증 프로세스">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,9 +265,6 @@
         </mxCell>
         <mxCell id="Hdyncuya7ho0bpKR4xYJ-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="462" y="628" width="10" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="Hdyncuya7ho0bpKR4xYJ-6" value="서버" style="html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hdyncuya7ho0bpKR4xYJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdyncuya7ho0bpKR4xYJ-14" target="Hdyncuya7ho0bpKR4xYJ-62">
           <mxGeometry relative="1" as="geometry" />
