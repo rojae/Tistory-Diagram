@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T15:11:48.626Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="D-6yIOHGVMQKRT1lP_aj" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-17T15:12:10.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vx6FoMcJjigOICEwHNKB" version="17.4.3" type="github" pages="5">
   <diagram id="BwQwfxBZ586QTjeH2dD2" name="Spring Security - Ajax 인증 프로세스">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -713,7 +713,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NmRz6OJzC4y2z9-5aXNN" name="DB-Accout">
-    <mxGraphModel dx="1051" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -765,8 +765,8 @@
         <mxCell id="E6P5J4xFd4W3h-fDrJzb-25" value="서비스계정@localhost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="277" y="160" width="122" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E6P5J4xFd4W3h-fDrJzb-26" value="예시 데이터베이스 : TEST&lt;br&gt;&lt;div&gt;&lt;span&gt;이때 서비스계정은 특정 데이터베이스에 대해서 권한을 가지고 있음.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;서비스계정 : Grant SELECT, INSERT, UPDATE, DELETE ON TEST.*&lt;br&gt;Maxscale 계정 : 데이터 조작 명령은 존재하지 않음" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="130" y="390" width="670" height="100" as="geometry" />
+        <mxCell id="E6P5J4xFd4W3h-fDrJzb-26" value="&lt;font style=&quot;font-size: 16px&quot;&gt;예시 데이터베이스 : TEST&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;이때 서비스계정은 특정 데이터베이스에 대해서 권한을 가지고 있음.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;서비스계정 : Grant SELECT, INSERT, UPDATE, DELETE ON TEST.*&lt;br&gt;Maxscale 계정 : 데이터 조작 명령은 존재하지 않음&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="393.5" width="670" height="100" as="geometry" />
         </mxCell>
         <mxCell id="E6P5J4xFd4W3h-fDrJzb-27" value="서비스계정@172.10.30.%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="546" y="161" width="134" height="30" as="geometry" />
