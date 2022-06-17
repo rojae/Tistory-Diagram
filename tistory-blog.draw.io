@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T13:55:38.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="to9mfUISVx2dnglNvmlN" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-17T13:56:01.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jLwBa8E9MM3dep21cnNT" version="17.4.3" type="github" pages="2">
   <diagram id="BwQwfxBZ586QTjeH2dD2" name="Spring Security - Ajax 인증 프로세스">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,7 +257,7 @@
         <mxCell id="Hdyncuya7ho0bpKR4xYJ-1" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;opacity=45;" vertex="1" parent="1">
           <mxGeometry x="240" width="320" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="Hdyncuya7ho0bpKR4xYJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" target="Hdyncuya7ho0bpKR4xYJ-62">
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hdyncuya7ho0bpKR4xYJ-14" target="Hdyncuya7ho0bpKR4xYJ-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="80" as="sourcePoint" />
           </mxGeometry>
@@ -318,12 +318,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="245.91999999999985" y="69.95999999999992" as="sourcePoint" />
             <mxPoint x="556.3199999999999" y="69.51999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Hdyncuya7ho0bpKR4xYJ-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="Hdyncuya7ho0bpKR4xYJ-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="40" as="sourcePoint" />
-            <mxPoint x="400" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hdyncuya7ho0bpKR4xYJ-83" value="L4 Switch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
