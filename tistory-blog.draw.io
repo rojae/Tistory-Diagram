@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T14:17:50.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5BssfeTQat12Xxfqj44e" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-17T14:18:10.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-HBUnLTdxxgwfGzhquq8" version="17.4.3" type="github" pages="3">
   <diagram id="BwQwfxBZ586QTjeH2dD2" name="Spring Security - Ajax 인증 프로세스">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -414,12 +414,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wX7sIORH19o9RM7sGWAE" name="Maxscale In WAS">
-    <mxGraphModel dx="823" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hdyncuya7ho0bpKR4xYJ-1" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;opacity=45;" vertex="1" parent="1">
-          <mxGeometry x="240" width="320" height="560" as="geometry" />
+          <mxGeometry x="240" width="320" height="590" as="geometry" />
         </mxCell>
         <mxCell id="Hdyncuya7ho0bpKR4xYJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hdyncuya7ho0bpKR4xYJ-14" target="Hdyncuya7ho0bpKR4xYJ-62">
           <mxGeometry relative="1" as="geometry">
@@ -545,6 +545,12 @@
         </mxCell>
         <mxCell id="IwTmsuGMkHt-cmVAbzUf-7" value="&lt;font style=&quot;font-size: 19px&quot;&gt;.&lt;br&gt;.&lt;br&gt;.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="467" y="254" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ag43HLyvo_oDnRbHM5PY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="458" width="300" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="ag43HLyvo_oDnRbHM5PY-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Galera Cluster Replication&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="268" y="560" width="259" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
