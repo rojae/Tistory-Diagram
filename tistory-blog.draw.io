@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T15:03:15.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="MITs3wOxblpv_biWvOSl" version="17.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-17T15:07:59.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Yb7b7kpKSZcsk5sJGPYN" version="17.4.3" type="github" pages="5">
   <diagram id="BwQwfxBZ586QTjeH2dD2" name="Spring Security - Ajax 인증 프로세스">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -713,12 +713,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NmRz6OJzC4y2z9-5aXNN" name="DB-Accout">
-    <mxGraphModel dx="823" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xRvo_q5g9lj47SwSS7p_-1" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;opacity=45;" vertex="1" parent="1">
-          <mxGeometry x="80" y="10" width="820" height="370" as="geometry" />
+          <mxGeometry x="80" y="10" width="820" height="500" as="geometry" />
         </mxCell>
         <mxCell id="E6P5J4xFd4W3h-fDrJzb-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="70" width="200" height="300" as="geometry" />
@@ -748,7 +748,7 @@
           <mxGeometry x="308" y="191" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E6P5J4xFd4W3h-fDrJzb-14" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="577" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="577" y="191" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="E6P5J4xFd4W3h-fDrJzb-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.85;arrowHead=43;dx2=25;fontSize=12;fillColor=none;rotation=-92;" vertex="1" parent="1">
           <mxGeometry x="700" y="260" width="62" height="140" as="geometry" />
@@ -761,6 +761,21 @@
         </mxCell>
         <mxCell id="E6P5J4xFd4W3h-fDrJzb-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.85;arrowHead=43;dx2=25;fontSize=12;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="715" y="40" width="62" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P5J4xFd4W3h-fDrJzb-25" value="서비스계정@localhost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="277" y="160" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P5J4xFd4W3h-fDrJzb-26" value="예시 데이터베이스 : TEST&lt;br&gt;&lt;div&gt;&lt;span&gt;이때 서비스계정은 특정 데이터베이스에 대해서 권한을 가지고 있음.&lt;/span&gt;&lt;/div&gt;&lt;br&gt;서비스계정 : Grant SELECT, INSERT, UPDATE, DELETE ON TEST.*&lt;br&gt;Maxscale 계정 : 데이터 조작 명령은 존재하지 않음" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="670" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P5J4xFd4W3h-fDrJzb-27" value="서비스계정@172.10.30.%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="546" y="161" width="134" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P5J4xFd4W3h-fDrJzb-28" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="577" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6P5J4xFd4W3h-fDrJzb-29" value="maxscale@172.10.30.%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="546" y="100" width="122" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
