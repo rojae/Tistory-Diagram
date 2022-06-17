@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T15:34:50.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="NMD1kIZU6OJ_x8cPTvCk" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T13:38:09.711Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Q5n1d1Qb_wvwqSK-Hf4g" version="17.4.3" type="github" pages="2">
   <diagram id="BwQwfxBZ586QTjeH2dD2" name="Spring Security - Ajax 인증 프로세스">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,11 +240,137 @@
         <mxCell id="3mzpqI_ZMmSIHLfCcytp-53" value="스크립트에서 세션 만료 모달창 (알림창) 조립" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="398" y="880" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ugJS5mImvCGFQIWUmmAD-1" value="인증된 사용자인가?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ugJS5mImvCGFQIWUmmAD-1" value="인증된 사용자인가?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="520" y="205" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ugJS5mImvCGFQIWUmmAD-2" value="인증된 경우, 클라이언트의 요청을 내부에 전달" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ugJS5mImvCGFQIWUmmAD-2" value="인증된 경우, 클라이언트의 요청을 내부에 전달" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="475" y="245" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wX7sIORH19o9RM7sGWAE" name="Maxscale In WAS">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-1" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;opacity=45;" vertex="1" parent="1">
+          <mxGeometry x="240" width="320" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="755.6599999999999" as="sourcePoint" />
+            <mxPoint x="350" y="755.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="462" y="628" width="10" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-6" value="서버" style="html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdyncuya7ho0bpKR4xYJ-14" target="Hdyncuya7ho0bpKR4xYJ-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-14" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Client&lt;/font&gt;" style="html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="265" y="10" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Hdyncuya7ho0bpKR4xYJ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="635" as="sourcePoint" />
+            <mxPoint x="46" y="616" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="635" />
+              <mxPoint x="510" y="660" />
+              <mxPoint x="480" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="596" width="10" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Hdyncuya7ho0bpKR4xYJ-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="454" y="631" />
+            </Array>
+            <mxPoint x="454" y="631" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-32" value="서버 데이터 요청" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="610" width="110" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-33" value="인증된 사용자인가?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="636" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449" y="813" as="sourcePoint" />
+            <mxPoint x="350" y="813" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="813" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-36" value="인증되지 않은 사용자의 경우" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="690" as="sourcePoint" />
+            <mxPoint x="472" y="715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="690" />
+              <mxPoint x="510" y="715" />
+              <mxPoint x="480" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-38" value="비동기 요청인가? (헤더검사)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="690" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-39" value="로그인 페이지로 이동" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="337" y="723" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="455" y="596" width="10" height="254" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-41" value="비동기 요청인 경우" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="468" y="803" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-42" value="세션만료 처리&lt;br&gt;(메시지, 403코드 전달)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="337" y="813" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.6666666666665" y="602.5999999999999" as="sourcePoint" />
+            <mxPoint x="340" y="602.5799999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="602.5799999999999" />
+              <mxPoint x="340" y="602.5799999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-48" value="액션" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="582.5799999999999" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-49" value="모달 (알림) 출력&lt;br&gt;페이지 이동" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247" y="920" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.11;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338.5" y="763" as="sourcePoint" />
+            <mxPoint x="278.5" y="763" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-51" value="로그인 페이지" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245.5" y="723" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-52" value="스크립트에서 세션 만료 모달창 (알림창) 조립" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="398" y="880" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-62" value="VIP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
