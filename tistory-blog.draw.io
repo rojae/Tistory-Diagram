@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T14:32:45.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="D8imURpymox0qeDGPUed" version="17.4.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-17T14:33:34.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="G2Xyc4IR6EJKE6UGgZhz" version="17.4.3" type="github" pages="4">
   <diagram id="BwQwfxBZ586QTjeH2dD2" name="Spring Security - Ajax 인증 프로세스">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -659,7 +659,7 @@
           <mxGeometry x="473" y="509" width="48" height="9" as="geometry" />
         </mxCell>
         <mxCell id="qO6eEHh_ktTwSP_asoER-28" value="Tomcat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="271" y="202" width="78" height="30" as="geometry" />
+          <mxGeometry x="273" y="224" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qO6eEHh_ktTwSP_asoER-29" value="WAS1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="281" y="172" width="60" height="30" as="geometry" />
@@ -668,13 +668,13 @@
           <mxGeometry x="467" y="172" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qO6eEHh_ktTwSP_asoER-31" value="Tomcat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="458" y="202" width="78" height="30" as="geometry" />
+          <mxGeometry x="458.75" y="224" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qO6eEHh_ktTwSP_asoER-32" value="&lt;font style=&quot;font-size: 19px&quot;&gt;.&lt;br&gt;.&lt;br&gt;.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="281" y="254" width="60" height="30" as="geometry" />
+          <mxGeometry x="281" y="270" width="60" height="14" as="geometry" />
         </mxCell>
         <mxCell id="qO6eEHh_ktTwSP_asoER-33" value="&lt;font style=&quot;font-size: 19px&quot;&gt;.&lt;br&gt;.&lt;br&gt;.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="467" y="254" width="60" height="30" as="geometry" />
+          <mxGeometry x="467" y="280" width="60" as="geometry" />
         </mxCell>
         <mxCell id="qO6eEHh_ktTwSP_asoER-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;dashed=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="458" width="300" height="102" as="geometry" />
@@ -682,11 +682,11 @@
         <mxCell id="qO6eEHh_ktTwSP_asoER-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Galera Cluster Replication&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="268" y="560" width="259" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qO6eEHh_ktTwSP_asoER-36" value="172.10.30.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="283" y="246" width="60" height="30" as="geometry" />
+        <mxCell id="qO6eEHh_ktTwSP_asoER-36" value="172.10.30.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="281" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qO6eEHh_ktTwSP_asoER-37" value="172.10.30.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="467" y="246" width="60" height="30" as="geometry" />
+        <mxCell id="qO6eEHh_ktTwSP_asoER-37" value="172.10.30.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="467.75" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qO6eEHh_ktTwSP_asoER-47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="qO6eEHh_ktTwSP_asoER-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
