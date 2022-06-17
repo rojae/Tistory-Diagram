@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T13:54:58.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wGmRk-pCq7WBG9hc6lbl" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-17T13:55:38.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="to9mfUISVx2dnglNvmlN" version="17.4.3" type="github" pages="2">
   <diagram id="BwQwfxBZ586QTjeH2dD2" name="Spring Security - Ajax 인증 프로세스">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -400,6 +400,15 @@
         </mxCell>
         <mxCell id="Hdyncuya7ho0bpKR4xYJ-108" value="MariaDB3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="467" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-109" value="Master" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="290" y="509" width="48" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-110" value="Slave" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="381" y="509" width="48" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="Hdyncuya7ho0bpKR4xYJ-111" value="Slave" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="473" y="509" width="48" height="9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
