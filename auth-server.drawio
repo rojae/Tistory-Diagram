@@ -1091,7 +1091,7 @@
         </mxCell>
         <mxCell id="T5j0OlWUgQ8lYqj4Ungy-10" value="쿠키 스토리지에 토큰 키 값 저장" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1">
           <mxGeometry x="0.0802" relative="1" as="geometry">
-            <mxPoint x="313" y="608" as="sourcePoint" />
+            <mxPoint x="300" y="608" as="sourcePoint" />
             <mxPoint x="140" y="608" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
