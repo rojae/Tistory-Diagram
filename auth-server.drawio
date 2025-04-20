@@ -716,6 +716,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NV2TKinRMWepKhK4l1LL-2" value="로그인 히스토리 추가" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;" edge="1" parent="WkIkm3c8hvOIFAQIjHUU-1" target="WkIkm3c8hvOIFAQIjHUU-19">
+          <mxGeometry x="-0.0811" y="-19" relative="1" as="geometry">
+            <mxPoint x="30.000000000000057" y="420" as="sourcePoint" />
+            <mxPoint x="85" y="419" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WkIkm3c8hvOIFAQIjHUU-33" value="social-api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="fSWA0mUwY7w83EWW_8-O-1">
           <mxGeometry x="464" y="51" width="56" height="1109" as="geometry" />
         </mxCell>
@@ -907,7 +914,7 @@
           <mxGeometry x="25" y="411" width="10" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Fbj_ggcmLhNNEOPfLmu5-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
-          <mxGeometry x="300" y="250" width="10" height="380" as="geometry" />
+          <mxGeometry x="300" y="250" width="10" height="400" as="geometry" />
         </mxCell>
         <mxCell id="_iu34fpMnpx-4qmmtiWx-5" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;glass=0;shadow=0;sketch=0;opacity=45;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
           <mxGeometry x="535" width="170" height="1160" as="geometry" />
@@ -1113,7 +1120,7 @@
         <mxCell id="RE-0bYmz393Tp797HTwD-0" value="Google&lt;div&gt;Rechapcha&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
           <mxGeometry x="759" y="50" width="61" height="1111.5" as="geometry" />
         </mxCell>
-        <mxCell id="T5j0OlWUgQ8lYqj4Ungy-12" value="토큰 저장 결과 응답" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;entryX=0.94;entryY=0.921;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1" target="Fbj_ggcmLhNNEOPfLmu5-38">
+        <mxCell id="T5j0OlWUgQ8lYqj4Ungy-12" value="토큰 저장 결과 응답" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;entryX=0.948;entryY=0.876;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1" target="Fbj_ggcmLhNNEOPfLmu5-38">
           <mxGeometry x="0.0758" y="20" relative="1" as="geometry">
             <mxPoint x="420" y="600" as="sourcePoint" />
             <mxPoint x="634.5" y="630" as="targetPoint" />
@@ -1129,7 +1136,7 @@
             <mxPoint x="491.3" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hD0-tehty7zzJ-W6dsk-3" value="로그인 토큰 발급 처리 API" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;exitX=1.02;exitY=0.812;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1" source="Fbj_ggcmLhNNEOPfLmu5-38">
+        <mxCell id="0hD0-tehty7zzJ-W6dsk-3" value="로그인 토큰 발급 처리 API" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;exitX=0.81;exitY=0.769;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1" source="Fbj_ggcmLhNNEOPfLmu5-38">
           <mxGeometry x="0.0807" relative="1" as="geometry">
             <mxPoint x="315" y="560" as="sourcePoint" />
             <mxPoint x="429" y="560" as="targetPoint" />
@@ -1141,6 +1148,13 @@
             <mxPoint x="364.1" y="420.00000000000017" as="sourcePoint" />
             <mxPoint x="305.0000000000001" y="420.00000000000017" as="targetPoint" />
             <mxPoint x="6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eB890_t_UGsGkz4qDGNt-0" value="로그인 히스토리 추가" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1" target="_iu34fpMnpx-4qmmtiWx-26">
+          <mxGeometry x="-0.0885" y="-20" relative="1" as="geometry">
+            <mxPoint x="310" y="640" as="sourcePoint" />
+            <mxPoint x="502.4" y="640" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
