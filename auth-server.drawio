@@ -373,7 +373,7 @@
         <mxCell id="O6-n9lzt3qMUrGLmD-RV-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=10;" vertex="1" parent="O6-n9lzt3qMUrGLmD-RV-13">
           <mxGeometry x="20" y="60" width="10" height="1040" as="geometry" />
         </mxCell>
-        <mxCell id="O6-n9lzt3qMUrGLmD-RV-91" value="가입 기본정보 검증 및 세션에 임시저장" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="O6-n9lzt3qMUrGLmD-RV-13">
+        <mxCell id="O6-n9lzt3qMUrGLmD-RV-91" value="가입 기본정보 검증" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="O6-n9lzt3qMUrGLmD-RV-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="574" as="sourcePoint" />
             <Array as="points">
