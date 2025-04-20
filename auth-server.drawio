@@ -818,6 +818,13 @@
         <mxCell id="_iu34fpMnpx-4qmmtiWx-40" value="social-api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
           <mxGeometry x="479" y="48" width="56" height="1118" as="geometry" />
         </mxCell>
+        <mxCell id="0hD0-tehty7zzJ-W6dsk-4" value="발급된 로그인 토큰 저장 (With TTL)" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-40" target="_iu34fpMnpx-4qmmtiWx-24">
+          <mxGeometry x="0.0802" relative="1" as="geometry">
+            <mxPoint x="-31.899999999999956" y="442" as="sourcePoint" />
+            <mxPoint x="87.9" y="442" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Fbj_ggcmLhNNEOPfLmu5-1" value="core-api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
           <mxGeometry x="359" y="47" width="50" height="1117" as="geometry" />
         </mxCell>
@@ -869,6 +876,13 @@
         </mxCell>
         <mxCell id="zM60bkzjdnavVZUoiG3J-4" value="최초 소셜 로그인" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontSize=10;" vertex="1" parent="zM60bkzjdnavVZUoiG3J-3">
           <mxGeometry width="210.00000000000003" height="20" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hD0-tehty7zzJ-W6dsk-3" value="로그인 토큰 발급 처리 API" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;exitX=1;exitY=0.32;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1" target="Fbj_ggcmLhNNEOPfLmu5-7">
+          <mxGeometry x="0.0802" relative="1" as="geometry">
+            <mxPoint x="330" y="480.00000000000006" as="sourcePoint" />
+            <mxPoint x="384.5" y="480.00000000000006" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
