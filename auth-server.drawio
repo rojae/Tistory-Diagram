@@ -892,13 +892,6 @@
         <mxCell id="Fbj_ggcmLhNNEOPfLmu5-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-3">
           <mxGeometry x="25" y="411" width="10" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="0hD0-tehty7zzJ-W6dsk-6" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;회원 데이터 유무 및 실체 확인&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;entryX=0.94;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-3">
-          <mxGeometry x="-1" y="-7" relative="1" as="geometry">
-            <mxPoint x="84.10000000000002" y="353.00000000000017" as="sourcePoint" />
-            <mxPoint x="25.000000000000114" y="353.00000000000017" as="targetPoint" />
-            <mxPoint x="6" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Fbj_ggcmLhNNEOPfLmu5-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
           <mxGeometry x="300" y="250" width="10" height="380" as="geometry" />
         </mxCell>
@@ -1021,21 +1014,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fbj_ggcmLhNNEOPfLmu5-1" value="core-api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
+        <mxCell id="Fbj_ggcmLhNNEOPfLmu5-1" value="core-api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
           <mxGeometry x="344" y="50" width="50" height="1110" as="geometry" />
-        </mxCell>
-        <mxCell id="T5j0OlWUgQ8lYqj4Ungy-3" value="소셜 클라이언트 정보 요청" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=9;dashed=1;" edge="1" parent="Fbj_ggcmLhNNEOPfLmu5-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-37.99999999999996" y="105" as="sourcePoint" />
-            <mxPoint x="147.3" y="105" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0hD0-tehty7zzJ-W6dsk-3" value="로그인 토큰 발급 처리 API" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;exitX=1.02;exitY=0.812;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Fbj_ggcmLhNNEOPfLmu5-1" source="Fbj_ggcmLhNNEOPfLmu5-38">
-          <mxGeometry x="0.0807" relative="1" as="geometry">
-            <mxPoint x="-29" y="510" as="sourcePoint" />
-            <mxPoint x="85" y="510" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Fbj_ggcmLhNNEOPfLmu5-7" value="oauth2-api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
           <mxGeometry x="401.5" y="50" width="53.5" height="1109.5" as="geometry" />
@@ -1091,7 +1071,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zM60bkzjdnavVZUoiG3J-3" value="소셜정보를 토대로 가입 진행&lt;div&gt;- 이메일, 성함, 닉네밍, 전화번호, 성별, 생년월일&lt;/div&gt;&lt;div&gt;- 동의 정보는 소셜 동의 페이지에서 받음&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=16;verticalAlign=top;align=left;fontSize=7;spacingLeft=5;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
-          <mxGeometry x="383.5" y="410" width="210" height="57" as="geometry" />
+          <mxGeometry x="435" y="411.5" width="210" height="57" as="geometry" />
         </mxCell>
         <mxCell id="zM60bkzjdnavVZUoiG3J-4" value="최초 소셜 로그인 (회원 데이터가 없었다면)" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontSize=10;" vertex="1" parent="zM60bkzjdnavVZUoiG3J-3">
           <mxGeometry width="210.00000000000003" height="20" relative="1" as="geometry" />
@@ -1124,6 +1104,29 @@
             <mxPoint x="420" y="600" as="sourcePoint" />
             <mxPoint x="634.5" y="630" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbiv2Vmc8lqz_jgLmg1E-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
+          <mxGeometry x="364" y="340" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T5j0OlWUgQ8lYqj4Ungy-3" value="소셜 클라이언트 정보 요청" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=9;dashed=1;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306.00000000000006" y="155" as="sourcePoint" />
+            <mxPoint x="491.3" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hD0-tehty7zzJ-W6dsk-3" value="로그인 토큰 발급 처리 API" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;exitX=1.02;exitY=0.812;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1" source="Fbj_ggcmLhNNEOPfLmu5-38">
+          <mxGeometry x="0.0807" relative="1" as="geometry">
+            <mxPoint x="315" y="560" as="sourcePoint" />
+            <mxPoint x="429" y="560" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hD0-tehty7zzJ-W6dsk-6" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 9px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;회원 데이터 유무 및 실체 확인&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;entryX=0.94;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1">
+          <mxGeometry x="-1" y="21" relative="1" as="geometry">
+            <mxPoint x="364.1" y="420.00000000000017" as="sourcePoint" />
+            <mxPoint x="305.0000000000001" y="420.00000000000017" as="targetPoint" />
+            <mxPoint x="6" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
