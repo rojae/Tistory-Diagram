@@ -1030,10 +1030,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0hD0-tehty7zzJ-W6dsk-5" value="회원 데이터 추출" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;" edge="1" parent="Fbj_ggcmLhNNEOPfLmu5-7" target="Fbj_ggcmLhNNEOPfLmu5-1">
+        <mxCell id="0hD0-tehty7zzJ-W6dsk-5" value="회원 데이터 추출" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;" edge="1" parent="Fbj_ggcmLhNNEOPfLmu5-7">
           <mxGeometry x="-0.004" relative="1" as="geometry">
             <mxPoint x="281.5" y="323" as="sourcePoint" />
-            <mxPoint x="-27.87999999999988" y="327.4499999999998" as="targetPoint" />
+            <mxPoint x="-31.5" y="323" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
