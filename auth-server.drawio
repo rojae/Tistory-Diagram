@@ -330,7 +330,7 @@
         <mxCell id="O6-n9lzt3qMUrGLmD-RV-3" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=0;opacity=45;" vertex="1" parent="1">
           <mxGeometry y="6" width="275" height="1162" as="geometry" />
         </mxCell>
-        <mxCell id="O6-n9lzt3qMUrGLmD-RV-4" value="개인" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="O6-n9lzt3qMUrGLmD-RV-4" value="유저" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="10" y="46" width="60" height="1118" as="geometry" />
         </mxCell>
         <mxCell id="O6-n9lzt3qMUrGLmD-RV-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=9;" vertex="1" parent="O6-n9lzt3qMUrGLmD-RV-4">
