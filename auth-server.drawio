@@ -683,7 +683,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="시퀀스다이어그램 - 아이디 로그인" id="vGjxYJuoH6DXgFhuESUk">
-    <mxGraphModel dx="1020" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fSWA0mUwY7w83EWW_8-O-0" />
         <mxCell id="fSWA0mUwY7w83EWW_8-O-1" parent="fSWA0mUwY7w83EWW_8-O-0" />
@@ -735,7 +735,7 @@
           <mxGeometry x="10" y="46" width="60" height="1118" as="geometry" />
         </mxCell>
         <mxCell id="WkIkm3c8hvOIFAQIjHUU-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=9;" vertex="1" parent="WkIkm3c8hvOIFAQIjHUU-9">
-          <mxGeometry x="25" y="60" width="10" height="590" as="geometry" />
+          <mxGeometry x="25" y="60" width="10" height="480" as="geometry" />
         </mxCell>
         <mxCell id="WkIkm3c8hvOIFAQIjHUU-13" value="APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="fSWA0mUwY7w83EWW_8-O-1">
           <mxGeometry x="170" y="46" width="55" height="1113" as="geometry" />
@@ -753,6 +753,20 @@
             <mxPoint x="130" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NV2TKinRMWepKhK4l1LL-0" value="로그인 성공 알림, 홈으로 이동" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;entryX=0.62;entryY=0.902;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WkIkm3c8hvOIFAQIjHUU-13">
+          <mxGeometry x="0.3483" y="28" relative="1" as="geometry">
+            <mxPoint x="-40" y="436" as="sourcePoint" />
+            <mxPoint x="-129" y="436" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NV2TKinRMWepKhK4l1LL-1" value="쿠키 스토리지에 토큰 키 값 저장" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;entryX=0.909;entryY=0.801;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WkIkm3c8hvOIFAQIjHUU-13" target="xrZr02d5ckhw-IosaHMJ-3">
+          <mxGeometry x="0.0776" relative="1" as="geometry">
+            <mxPoint x="130" y="404" as="sourcePoint" />
+            <mxPoint x="-20" y="404" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WkIkm3c8hvOIFAQIjHUU-14" value="WEB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;" vertex="1" parent="fSWA0mUwY7w83EWW_8-O-1">
           <mxGeometry x="110" y="46" width="50" height="1120" as="geometry" />
         </mxCell>
@@ -760,7 +774,7 @@
           <mxGeometry x="26" y="214" width="10" height="236" as="geometry" />
         </mxCell>
         <mxCell id="WkIkm3c8hvOIFAQIjHUU-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=10;" vertex="1" parent="WkIkm3c8hvOIFAQIjHUU-14">
-          <mxGeometry x="20" y="60" width="10" height="550" as="geometry" />
+          <mxGeometry x="20" y="60" width="10" height="450" as="geometry" />
         </mxCell>
         <mxCell id="WkIkm3c8hvOIFAQIjHUU-18" value="Redis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=10;size=40;" vertex="1" parent="fSWA0mUwY7w83EWW_8-O-1">
           <mxGeometry x="605" y="50" width="40" height="1109" as="geometry" />
@@ -1090,7 +1104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T5j0OlWUgQ8lYqj4Ungy-10" value="쿠키 스토리지에 토큰 키 값 저장" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1">
-          <mxGeometry x="0.0802" relative="1" as="geometry">
+          <mxGeometry x="0.0776" relative="1" as="geometry">
             <mxPoint x="300" y="608" as="sourcePoint" />
             <mxPoint x="140" y="608" as="targetPoint" />
             <mxPoint as="offset" />
