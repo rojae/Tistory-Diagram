@@ -808,10 +808,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fbj_ggcmLhNNEOPfLmu5-36" value="카카오 계정 토큰 정보 수신" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1">
+        <mxCell id="Fbj_ggcmLhNNEOPfLmu5-36" value="카카오 계정 토큰 정보 수신" style="html=1;verticalAlign=bottom;endArrow=open;fontSize=9;dashed=1;endFill=0;entryX=0.86;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1" target="Fbj_ggcmLhNNEOPfLmu5-38">
           <mxGeometry x="0.0123" relative="1" as="geometry">
             <mxPoint x="771.5" y="300" as="sourcePoint" />
-            <mxPoint x="319.70000000000005" y="300" as="targetPoint" />
+            <mxPoint x="330" y="300" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
