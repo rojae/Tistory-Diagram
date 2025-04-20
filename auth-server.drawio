@@ -1041,7 +1041,7 @@
             <mxPoint x="130" y="260.0000000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkIkm3c8hvOIFAQIjHUU-24" value="2.0.1. 아이디/패스워드 기반 로그인 서비스" style="html=1;fontSize=20;dashed=1;" vertex="1" parent="fSWA0mUwY7w83EWW_8-O-1">
+        <mxCell id="WkIkm3c8hvOIFAQIjHUU-24" value="2.0.0. 아이디/패스워드 기반 로그인 서비스" style="html=1;fontSize=20;dashed=1;" vertex="1" parent="fSWA0mUwY7w83EWW_8-O-1">
           <mxGeometry x="2" y="-690" width="820" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WkIkm3c8hvOIFAQIjHUU-25" value="인증 프론트엔드 서비스" style="html=1;fontSize=10;" vertex="1" parent="fSWA0mUwY7w83EWW_8-O-1">
