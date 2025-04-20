@@ -1170,7 +1170,7 @@
         <mxCell id="zM60bkzjdnavVZUoiG3J-3" value="소셜정보를 토대로 가입 진행&lt;div&gt;- 이메일, 성함, 닉네밍, 전화번호, 성별, 생년월일&lt;/div&gt;&lt;div&gt;- 동의 정보는 소셜 동의 페이지에서 받음&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=16;verticalAlign=top;align=left;fontSize=7;spacingLeft=5;" vertex="1" parent="_iu34fpMnpx-4qmmtiWx-1">
           <mxGeometry x="383.5" y="410" width="210" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="zM60bkzjdnavVZUoiG3J-4" value="최초 소셜 로그인 (회원 데이터가 없다면)" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontSize=10;" vertex="1" parent="zM60bkzjdnavVZUoiG3J-3">
+        <mxCell id="zM60bkzjdnavVZUoiG3J-4" value="최초 소셜 로그인 (회원 데이터가 없었다면)" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;fontSize=10;" vertex="1" parent="zM60bkzjdnavVZUoiG3J-3">
           <mxGeometry width="210.00000000000003" height="20" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T5j0OlWUgQ8lYqj4Ungy-2" value="소셜 클라이언트 정보 요청" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=9;dashed=1;exitX=1;exitY=0.042;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_iu34fpMnpx-4qmmtiWx-1" source="_iu34fpMnpx-4qmmtiWx-20" target="_iu34fpMnpx-4qmmtiWx-3">
