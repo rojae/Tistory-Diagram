@@ -341,10 +341,10 @@
         <mxCell id="DMzVG_sJEQwPWUvE0fFt-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="208.5" y="225" width="364.5" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="DMzVG_sJEQwPWUvE0fFt-56" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;notification-gateway-server&lt;br&gt;발송 진행 시나리오&lt;/span&gt;" style="html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="DMzVG_sJEQwPWUvE0fFt-56" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;notification-gateway-server&lt;br&gt;발송 검사 시나리오&lt;/span&gt;" style="html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="3" width="820" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="DMzVG_sJEQwPWUvE0fFt-57" value="SendUsecase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="DMzVG_sJEQwPWUvE0fFt-57" value="CheckPointUsecase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="313" y="131" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DMzVG_sJEQwPWUvE0fFt-58" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;CompositeTargetingService&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
